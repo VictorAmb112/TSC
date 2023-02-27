@@ -10,3 +10,4 @@ git config --global user.name "VictorAmb112"
 git config --global user.email "vambarus@yahoo.com"
 git config --global --list
 git config --global credential.helper store
+Nu mai vreau parola
