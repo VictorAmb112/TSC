@@ -12,3 +12,6 @@ git config --global --list
 git config --global credential.helper store
 Nu mai vreau parola
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+Tema lab 3 
+intelege ce e ala "git ignore"
