@@ -1,0 +1,160 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ailen/Desktop/TSC_lab3
+vinstr_register
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 DXx4 work 18 instr_register_pkg 0 22 ;]W;1WGSSP=IFdRYPkFh=2
+!s110 1678689792
+!i10b 1
+!s100 JGUl`icCY<02k?OaUf4ZZ0
+IW1caT=1[RRgl8cKnY_4k51
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 instr_register_sv_unit
+S1
+Z4 dC:/Users/ailen/Desktop/TSC_lab4
+w1678689755
+8C:/Users/ailen/Desktop/TSC_lab4/lab_dut/instr_register.sv
+FC:/Users/ailen/Desktop/TSC_lab4/lab_dut/instr_register.sv
+L0 9
+Z5 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1678689792.000000
+!s107 C:/Users/ailen/Desktop/TSC_lab4/lab_dut/instr_register.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/ailen/Desktop/TSC_lab4/lab_dut/instr_register.sv|
+!s101 -O0
+!i113 1
+Z6 o-work work -O0
+Z7 tCvgOpt 0
+Xinstr_register_pkg
+R1
+!s110 1678689790
+!i10b 1
+!s100 XFR_La3<W40?4X<azj@4H3
+I;]W;1WGSSP=IFdRYPkFh=2
+V;]W;1WGSSP=IFdRYPkFh=2
+S1
+R4
+w1678689510
+8C:/Users/ailen/Desktop/TSC_lab4/lab_dut/instr_register_pkg.sv
+FC:/Users/ailen/Desktop/TSC_lab4/lab_dut/instr_register_pkg.sv
+L0 5
+R5
+r1
+!s85 0
+31
+!s108 1678689790.000000
+!s107 C:/Users/ailen/Desktop/TSC_lab4/lab_dut/instr_register_pkg.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/ailen/Desktop/TSC_lab4/lab_dut/instr_register_pkg.sv|
+!s101 -O0
+!i113 1
+R6
+R7
+vinstr_register_test
+R1
+R2
+!s110 1678690029
+!i10b 1
+!s100 [=aO5o[lT2YKgUWng[f?D2
+IQnXAL<mT]=kbBZ`7QJD<11
+R3
+!s105 instr_register_test_sv_unit
+S1
+R4
+w1678690011
+8C:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/instr_register_test.sv
+FC:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/instr_register_test.sv
+L0 8
+R5
+r1
+!s85 0
+31
+!s108 1678690029.000000
+!s107 C:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/instr_register_test.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/instr_register_test.sv|
+!s101 -O0
+!i113 1
+R6
+R7
+Ytb_ifc
+R1
+R2
+!s110 1678689924
+!i10b 1
+!s100 9W>AVcHhBXii<Bfl@Xo5O2
+IV?7RdfbnJHza@76[__nfI2
+R3
+!s105 tb_ifc_sv_unit
+S1
+R4
+w1614777422
+8C:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/tb_ifc.sv
+FC:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/tb_ifc.sv
+L0 5
+R5
+r1
+!s85 0
+31
+Z8 !s108 1678689924.000000
+!s107 C:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/tb_ifc.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/tb_ifc.sv|
+!s101 -O0
+!i113 1
+R6
+R7
+vtest
+!s110 1678083449
+!i10b 1
+!s100 ZObh@Xc8TVS[ETnRI:z9`2
+I1e@zT<S^T]T@4Y:jzTE=i0
+R3
+R0
+w1614777644
+8C:/Users/ailen/Desktop/TSC_lab3/test/test.v
+FC:/Users/ailen/Desktop/TSC_lab3/test/test.v
+L0 7
+R5
+r1
+!s85 0
+31
+!s108 1678083448.000000
+!s107 C:/Users/ailen/Desktop/TSC_lab3/test/test.v|
+!s90 -reportprogress|300|-work|work|C:/Users/ailen/Desktop/TSC_lab3/test/test.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vtop
+R1
+R2
+!s110 1678689925
+!i10b 1
+!s100 Pg=M]M2k<1Dk;?TFRVBCm1
+IjQ_l6UD9CRmgM0bZozAih3
+R3
+!s105 top_sv_unit
+S1
+R4
+w1678086640
+8C:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/top.sv
+FC:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/top.sv
+L0 5
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/top.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/ailen/Desktop/TSC_lab4/lab01_testbench-interface/top.sv|
+!s101 -O0
+!i113 1
+R6
+R7
